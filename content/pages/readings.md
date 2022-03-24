@@ -72,7 +72,7 @@ Jacque, Laurent L., and Paul M. Vaaler, eds. _Financial Innovations and the Welf
 {{< tdopen >}}
 
 
-Measuring Productivity and Evaluating Innovation in the U.S. Construction Industry. Building Futures Council whitepaper. Alexandria, VA: Building Futures Council, 2006. ([![This resource may not render correctly in a screen reader.](/images/inacessible.gif)PDF](https://web.archive.org/web/20150209033429/http://www.thebfc.org/uploads/BFC_Productivity_whitepaper.pdf))
+Measuring Productivity and Evaluating Innovation in the U.S. Construction Industry. Building Futures Council whitepaper. Alexandria, VA: Building Futures Council, 2006. ([PDF](https://web.archive.org/web/20150209033429/http://www.thebfc.org/uploads/BFC_Productivity_whitepaper.pdf))
 
 [Greatest Construction Projects: a Look Back at 125 Years of Construction Milestones](http://enr.construction.com/aboutUs/125enrHistory/125enrhistory.asp). _Engineering News-Record_ (1999): 2-33.
 
