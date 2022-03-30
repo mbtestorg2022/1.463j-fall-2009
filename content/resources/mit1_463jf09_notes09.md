@@ -4,6 +4,7 @@ description: Lecture notes on risk management opportunities, parochialism, inter
   projects and investment risk, and other barriers to overseas involvement.
 file: https://ol-ocw-studio-app-qa.s3.amazonaws.com/courses/1-463j-the-impact-of-globalization-on-the-built-environment-fall-2009/0305d54a5b1150be2e0a6038ec606fc2_MIT1_463JF09_notes09.pdf
 file_type: application/pdf
+parent_uid: 57641dba-3797-d025-d4b7-c13a7f5fedd9
 resourcetype: Document
 title: 'Risk Management Opportunities and Parochialism and Other Barriers to Overseas
   Involvement '
